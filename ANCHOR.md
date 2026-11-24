@@ -1,0 +1,10 @@
+# drand anchor
+
+Quoted from the drand mainnet relay (https://drand.cloudflare.com/public/latest)
+before the first write to the entry file, 2026-11-24 ~15:28 WIB.
+
+- round: 6669262
+- randomness: 924631c0d72063a11304a163b24c786c2ca8c326a6bf08b4cd1deaf735853fbd
+- signature: ab1e17d69e09ec0e56c6b9832de8409bdc33243caff7b826c288d4d603009f0b055f73c3163c0bfa12c3a0420df1f3be14215f358c10d161433e4ca0457f9f95c0af149c552ce766025f6bb8f90351d7b46d67c5c6c1bfe8d635aea23b4e2f83
+- previous_signature: b9f0fb912d2710f95a9a961959de5cd9f1a6c1c6ecf796576e391dbd23f914818c46a237124fb2395eb3557e306d96ca15cb113e162123ef2faa4b1820b46be3413b49ce541957b33cb9350ad8fcf9aad32900205e1fe48b498e9e0a02984a92
+- chain: 52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971 (drand quicknet)
